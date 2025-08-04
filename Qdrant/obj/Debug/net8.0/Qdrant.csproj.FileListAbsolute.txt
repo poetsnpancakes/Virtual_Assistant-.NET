@@ -1,0 +1,14 @@
+C:\Users\Ayush\source\repos\Qdrant\bin\Debug\net8.0\Qdrant.deps.json
+C:\Users\Ayush\source\repos\Qdrant\bin\Debug\net8.0\Qdrant.runtimeconfig.json
+C:\Users\Ayush\source\repos\Qdrant\bin\Debug\net8.0\Qdrant.dll
+C:\Users\Ayush\source\repos\Qdrant\bin\Debug\net8.0\Qdrant.pdb
+C:\Users\Ayush\source\repos\Qdrant\obj\Debug\net8.0\Qdrant.csproj.AssemblyReference.cache
+C:\Users\Ayush\source\repos\Qdrant\obj\Debug\net8.0\Qdrant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayush\source\repos\Qdrant\obj\Debug\net8.0\Qdrant.AssemblyInfoInputs.cache
+C:\Users\Ayush\source\repos\Qdrant\obj\Debug\net8.0\Qdrant.AssemblyInfo.cs
+C:\Users\Ayush\source\repos\Qdrant\obj\Debug\net8.0\Qdrant.csproj.CoreCompileInputs.cache
+C:\Users\Ayush\source\repos\Qdrant\obj\Debug\net8.0\Qdrant.dll
+C:\Users\Ayush\source\repos\Qdrant\obj\Debug\net8.0\refint\Qdrant.dll
+C:\Users\Ayush\source\repos\Qdrant\obj\Debug\net8.0\Qdrant.pdb
+C:\Users\Ayush\source\repos\Qdrant\obj\Debug\net8.0\Qdrant.genruntimeconfig.cache
+C:\Users\Ayush\source\repos\Qdrant\obj\Debug\net8.0\ref\Qdrant.dll
